@@ -4,6 +4,7 @@ In DB Browser for SQL Lite: search for Chinook_Sqlite.sqlite in Chinook_Database
 Database Link: https://github.com/lerocha/chinook-database  
 Software used DB Browser for SQlite, download link: https://sqlitebrowser.org/dl/ 
 Refer "report.pdf" for report on projects, which consists queries and sample outputs.
+
 🔍 Conducted analysis on 11 interconnected tables such as Customer, Invoice, Track, Artist, and Album
 
 ✍️ Wrote 15 SQL queries to uncover business insights like total revenue, top-selling tracks, country-wise sales, and monthly trends
